@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 A hobbyist at heart.
 
-I have always loved tweaking Tumblr themes and curious about the concept and framework behind amazing portfolio/landing pages. Now that I do have spare time to learn web development, I decided to go through freeCodeCamp online curriculum.
+I have always loved tweaking Tumblr themes and curious about the concept and framework behind amazing portfolio/landing pages. Now that I do have spare time to learn web development, I decided to go through freeCodeCamp, Grasshopper and The Odin Project online curriculum. For now, I'm only focusing on Responsive Web Design and building practice portfolio.
 
 *   🌍  I'm based in Jakarta, Indonesia
 *   🧠  I'm learning HTML, CSS and JavaScript
