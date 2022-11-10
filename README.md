@@ -4,15 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://github.com/mn-lauren" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/laurentiamaria" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge alt=linkedin style="margin-bottom: 5px;" />
-</a>
 <a href="https://codepen.com/mn-lauren" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
 
 ### Pleased to meet you.  
-I’m a Hobbyist from Jakarta, Indonesia. Beautiful websites and landing pages have always caught my eyes and I used to tweak both Tumblr and Blogger themes. Now that I finally have enough spare time in the weekend, I decided to go through the web development curriculum on [freeCodeCamp](https://www.freecodecamp.org/laurentia-mn). I also learn from Grasshopper App, The Odin Project and [W3Schools](https://www.w3profile.com/mn-lauren). My current focus is Responsive Web Design and building a practice portfolio.  
+I’m a Hobbyist from Jakarta, Indonesia. Beautiful websites and landing pages have always caught my eyes and I used to tweak both Tumblr and Blogger themes. Now that I finally have enough spare time in the weekend, I decided to go through the web development curriculum on [freeCodeCamp](https://www.freecodecamp.org/mn-lauren). I also learn from Grasshopper App, The Odin Project and [W3Schools](https://www.w3profile.com/mn-lauren). My current focus is Responsive Web Design and building a practice portfolio.  
 
 - 🦦  Fun fact (1): I love otters, way too much  
 - ⚡  Fun fact (2): I actually have a Clinical Psychology degree  
