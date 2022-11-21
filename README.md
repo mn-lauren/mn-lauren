@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 
 ### Pleased to meet you.  
-I’m a Hobbyist from Jakarta, Indonesia. Beautiful websites and landing pages have always caught my eyes and I used to tweak both Tumblr and Blogger themes. Now that I finally have enough spare time in the weekend, I decided to go through the web development curriculum on [freeCodeCamp](https://www.freecodecamp.org/mn-lauren). I also learn from Grasshopper App, The Odin Project and [W3Schools](https://www.w3profile.com/mn-lauren). My current focus is Responsive Web Design and building a practice portfolio.  
+I’m a Hobbyist from Jakarta, Indonesia. Beautiful websites and landing pages have always caught my eyes and I used to tweak both Tumblr and Blogger themes. Now that I finally have enough spare time in the weekend, I decided to go through the web development curriculum on [freeCodeCamp](https://www.freecodecamp.org/mn-lauren). I also learn from The Odin Project. My current focus is Responsive Web Design and building a practice portfolio.  
 
 - 🦦  Fun fact (1): I love otters, way too much  
 - ⚡  Fun fact (2): I actually have a Clinical Psychology degree  
@@ -17,7 +17,7 @@ I’m a Hobbyist from Jakarta, Indonesia. Beautiful websites and landing pages h
 
 ## Languages and Tools  
 ### In my toolbox (frequently practiced):
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 
 ### Currently learning:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
