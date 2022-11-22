@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 
 ### Pleased to meet you.  
-I’m a Hobbyist from Jakarta, Indonesia. Beautiful websites and landing pages have always caught my eyes and I used to tweak both Tumblr and Blogger themes. Now that I finally have enough spare time in the weekend, I decided to go through the web development curriculum on [freeCodeCamp](https://www.freecodecamp.org/mn-lauren). I also learn from The Odin Project. My current focus is Responsive Web Design and building a practice portfolio.  
+I’m a Hobbyist from Jakarta, Indonesia. Beautiful websites and landing pages have always caught my eyes and I used to tweak both Tumblr and Blogger themes. Now that I finally have enough spare time in the weekend, I decided to go through the web development curriculum on [freeCodeCamp](https://www.freecodecamp.org/mn-lauren). I also learn from The Odin Project. My current focus is Responsive Web Design, building a practice portfolio and learning data analysis.  
 
 - 🦦  Fun fact (1): I love otters, way too much  
 - ⚡  Fun fact (2): I actually have a Clinical Psychology degree  
