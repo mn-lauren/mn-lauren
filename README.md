@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 
 ### Pleased to meet you.  
-Beautiful websites and landing pages have always caught my eyes and I used to tweak both Tumblr and Blogger themes. Now that I finally have enough spare time in the weekend, I decided to go through the web development curriculum on [freeCodeCamp](https://www.freecodecamp.org/mn-lauren). I also learn from The Odin Project. My current focus is Responsive Web Design.  
+Beautiful websites and landing pages have always caught my eyes and I used to tweak both Tumblr and Blogger themes. Now that I finally have enough spare time in the weekend, I decided to go through the web development curriculum on [freeCodeCamp](https://www.freecodecamp.org/mn-lauren). I also learn from [W3Schools](https://www.w3profile.com/ren) and The Odin Project. My current focus is Responsive Web Design.  
  
 - ⚡  Fun fact: I actually have a Psychology degree  
 - 💬  Feel free to talk/exchange ideas about mental health online platform  
