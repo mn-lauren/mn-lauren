@@ -23,6 +23,10 @@ Beautiful websites and landing pages have always caught my eyes and I used to tw
 
 ### Something that I recently created
 ![](https://drive.google.com/uc?id=1GdeBK3L7Ky7HNLXVL0458_gdqYqRhAks)
+PS:
+- You can find it [here](https://mn-lauren.github.io/iris/).
+- Unfortunately, it's not responsive.
+- I'm still struggling with media queries etc, but let's keep on practicing!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mn-lauren&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
