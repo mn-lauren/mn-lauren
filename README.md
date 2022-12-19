@@ -12,13 +12,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Beautiful websites and landing pages have always caught my eyes and I used to tweak both Tumblr and Blogger themes. Now that I finally have enough spare time in the weekend, I decided to go through the web development curriculum on [freeCodeCamp](https://www.freecodecamp.org/mn-lauren). I also learn from [W3Schools](https://www.w3profile.com/ren) and The Odin Project. My current focus is Responsive Web Design.  
  
 - ⚡  Fun fact: I actually have a Psychology degree  
-- 💬  Feel free to talk/exchange ideas about mental health online platform  
+- 💬  Feel free to talk/exchange ideas about mental health online platform
 
 ## Languages and Tools  
 ### In my toolbox:
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
 
-(Still in the learning process for some, including Inkscape, JavaScript and R)
+### Currently learning:
+![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+
+### Something that I recently created
+![](https://drive.google.com/uc?id=1GdeBK3L7Ky7HNLXVL0458_gdqYqRhAks)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mn-lauren&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
